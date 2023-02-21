@@ -1,0 +1,15 @@
+p {
+    text-align: center;
+    margin-top: 200px;
+}
+
+form input {
+    display:block;
+    min-width: 400px;
+    margin-left: 230px;
+}
+
+div {
+text-align: center;
+margin-top: 10px;
+}
